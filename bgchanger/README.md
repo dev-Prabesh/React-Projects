@@ -1,3 +1,6 @@
+You are currently inside Readme.md
+
+
 # Background Changer Project
 
 This is a simple React project that allows users to change the background color of a webpage dynamically. The project demonstrates the use of React hooks, components, and state management.
